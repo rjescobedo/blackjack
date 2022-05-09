@@ -26,6 +26,10 @@ button {
     font-weight: bold;
     border: none;
     border-radius: 2px;
-    margin-bottom: 2px;
-    margin-top: 2px;
+    margin: .2em;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgb(188, 141, 21);
 }
